@@ -375,7 +375,7 @@ footer {
     text-align: justify;
     color: #fff;
     text-shadow: 2px 2px 4px #000000;
-    height: 1075px;
+    length: auto 1075px;
     font-size: 125%;
     background-repeat: no-repeat;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
